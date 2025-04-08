@@ -1,12 +1,12 @@
 <div align="center">
-  <a href="#"><img src="https://via.placeholder.com/200x200.png?text=Unscene" width="200" alt="Unscene" align="center"/></a>
+  <a href="#"><img src="https://github.com/user-attachments/assets/79cd50f7-0d33-48e9-9926-c73c69d50fb7" width="200" alt="Unscene" align="center"/></a>
 
   # Unscene
 
-  Automatic Wallpaper Updates, Curated Channels, Global Shortcuts, Multi-Display Support, Custom Intervals, and More!
+ A macOS menu bar app to automatically change your desktop wallpaper from a curated collection of high-quality images. Customize your experience with global shortcuts, channel selection, and update intervals.
 
-  <a href="https://github.com/itsabhishekolkha/Unscene/releases/download/v1.0.0/Unscene.1.0.0.dmg"><img src="https://via.placeholder.com/180x60.png?text=Download+for+macOS" width="180" alt="Download for macOS"/></a><br/>
-  <sub><b>The latest app version requires macOS 13.0 (Ventura) or later.</b></sub>
+  <a href="https://github.com/itsabhishekolkha/Unscene/releases/download/v1.0.0/Unscene.1.0.0.dmg"><img src="https://github.com/user-attachments/assets/a959a0d3-703f-4740-a6ec-ddbaceb0cf74" width="180" alt="Download for macOS"/></a><br/>
+  <sub><b>The latest app version requires macOS 12.0 (Monterey) or later.</b></sub>
 </div>
 
 <br />
@@ -16,7 +16,15 @@
   <a href="#"><img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg?style=flat&color=blue" alt="platform"/></a>
 </div>
 
-🔴 **Special Note**: Fully optimized for both Intel-based Macs and Apple Silicon (M1/M2/M3) with native performance. Enjoy stunning wallpapers tailored to your setup!
+
+## Features
+
+- **Automatic Wallpaper Updates**: Set intervals from 30 minutes to weekly for fresh wallpapers.
+- **Curated Channels**: Choose from categories like Nature, Abstract, Urban, and more.
+- **Custom Channels**: Combine existing channels into your own custom collections.
+- **Global Shortcuts**: Trigger wallpaper changes, revert to previous, or download current wallpaper with key combos.
+- **Multi-Display Support**: Use the same wallpaper across all screens or unique ones per display.
+- **Trial & License**: Free trial with limited features; unlock full functionality with a one-time purchase.
 
 ## Usage
 
@@ -28,7 +36,7 @@ Unscene brings effortless wallpaper management to your macOS desktop. Here’s h
 - `2.` See the next wallpaper time and pick from options like "Change Wallpaper" or "Channels."  
 - `3.` Open **Settings** to tweak everything to your liking.  
 <div align="center">
-  <a href="#"><img width="300" alt="Menu Bar UI" src="https://via.placeholder.com/300x200.png?text=Unscene+Menu+Bar" /></a>
+  <a href="#"><img width="300" alt="Menu Bar UI" src="https://github.com/user-attachments/assets/1ca35352-5785-4fc8-9221-6359f1f02fd7" /></a>
 </div>
 
 ### 🌟 Channels Tab  
@@ -37,8 +45,9 @@ Unscene brings effortless wallpaper management to your macOS desktop. Here’s h
 - `2.` Toggle channels on/off in the menu or create custom ones with **"Add New."**  
 - `3.` Combine existing channels into your own masterpiece (e.g., "Nature + Minimal").  
 <div align="center">
-  <a href="#"><img width="500" alt="Channels UI" src="https://via.placeholder.com/500x400.png?text=Unscene+Channels" /></a>
+  <a href="#"><img width="500" alt="Channels UI" src="https://github.com/user-attachments/assets/8ff53311-b1dd-4ea3-b182-81a9d4c70ecd" /></a>
 </div>
+
 
 ### ⚙️ Settings Tab  
 *Fine-tune your experience*  
@@ -47,7 +56,7 @@ Unscene brings effortless wallpaper management to your macOS desktop. Here’s h
 - `3.` Customize **Shortcuts** (e.g., Opt+Cmd+N to change wallpaper).  
 - `4.` Pick a **Download Folder** for saved wallpapers.  
 <div align="center">
-  <a href="#"><img width="500" alt="Settings UI" src="https://via.placeholder.com/500x400.png?text=Unscene+Settings" /></a>
+  <a href="#"><img width="500" alt="Settings UI" src="https://github.com/user-attachments/assets/483e8d38-8646-45ec-a7f6-85cc17c13917" /></a>
 </div>
 
 ### ⌨️ Global Shortcuts  
@@ -74,13 +83,12 @@ Get Unscene running in a snap—here’s how:
 
 ### Step 3: Grant Permissions  
 - `1.` Go to `System Settings > Privacy & Security > Accessibility` and enable Unscene for shortcuts.  
-- `2.` Optionally, allow Screen Recording for multi-display features.
 
 ---
 
 ## 🌟 About Unscene
 
-Unscene is a lightweight, stylish app designed to keep your macOS desktop fresh with beautiful wallpapers. Pulling from curated Google Drive folders, it offers a clutter-free way to enjoy Nature, Abstract, or custom blends—automatically or on demand.
+Unscene is a lightweight, stylish app designed to keep your macOS desktop fresh with beautiful wallpapers. It offers a clutter-free way to enjoy Nature, Abstract, or custom blends—automatically or on demand.
 
 `Why It Exists:`  
 - To bring effortless wallpaper updates to your Mac.  
@@ -127,7 +135,6 @@ Your feedback and love keep this project alive—let’s make desktop magic toge
 Unscene was crafted with care by:  
 
 **Abhishek Olkha**  
-_Developer & Wallpaper Enthusiast_  
+_Developer & Enthusiast_  
 - 🌐 GitHub: [itsabhishekolkha](https://github.com/itsabhishekolkha)  
 - 📧 Email: [Abhishekolkha555@gmail.com](mailto:Abhishekolkha555@gmail.com)  
-- ✨ Built for macOS lovers who crave a fresh desktop!
