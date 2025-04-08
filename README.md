@@ -25,6 +25,7 @@
 - **Global Shortcuts**: Trigger wallpaper changes, revert to previous, or download current wallpaper with key combos.
 - **Multi-Display Support**: Use the same wallpaper across all screens or unique ones per display.
 - **Trial & License**: Free trial with limited features; unlock full functionality with a one-time purchase.
+- **Contribute Wallpapers** A option in Unscene where users can share there wallpapers and they will be available on Unscene server ASAP.
 
 ## Usage
 
@@ -54,7 +55,8 @@ Unscene brings effortless wallpaper management to your macOS desktop. Here’s h
 - `1.` Set **Update Interval** (30 min to weekly, trial mode: 24 hrs).  
 - `2.` Enable **Same Wallpaper on All Displays** or go unique per screen.  
 - `3.` Customize **Shortcuts** (e.g., Opt+Cmd+N to change wallpaper).  
-- `4.` Pick a **Download Folder** for saved wallpapers.  
+- `4.` Pick a **Download Folder** for saved wallpapers.
+- `5.` Share your wallpapers with **Contribute Wallpapers** option and they will be available on *Unscene* ASAP. 
 <div align="center">
   <a href="#"><img width="500" alt="Settings UI" src="https://github.com/user-attachments/assets/483e8d38-8646-45ec-a7f6-85cc17c13917" /></a>
 </div>
