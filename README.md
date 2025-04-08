@@ -29,7 +29,7 @@
 
 ## Usage
 
-Unscene brings effortless wallpaper management to your macOS desktop. Here’s how to make the most of it:
+Unscene brings effortless wallpaper management to your macOS desktop. Here’s how to make the most of it. No need to set wallpapers manually just press the shortcut keys anywhere and on any app your wallpaper will change automatically.
 
 ### 🖥️ Menu Bar  
 *Your wallpaper control hub*  
