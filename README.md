@@ -32,7 +32,8 @@
 Unscene brings effortless wallpaper management to your macOS desktop. Here’s how to make the most of it. No need to set wallpapers manually just press the shortcut keys anywhere and on any app your wallpaper will change automatically.
 
 ## Known Issues:
-Accessibility permissions may need a reset if shortcuts don’t work at first—remove Unscene from System Settings->Privacy & Security-> Accessibility then quit the app and reopen give Accessibility permission when the popup appears. After this quit the app again and reopen, You are good to go!!
+1. Accessibility permissions may need a reset if shortcuts don’t work at first—remove Unscene from System Settings->Privacy & Security-> Accessibility then quit the app and reopen give Accessibility permission when the popup appears. After this quit the app again and reopen, You are good to go!!
+2. After buying the License Key go to channels select any channels in order for the app to change wallpapers from the server, set timer is set for 1 hr for trial users so change it according to you.
 
 ### 🖥️ Menu Bar  
 *Your wallpaper control hub*  
