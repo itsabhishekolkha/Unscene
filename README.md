@@ -5,7 +5,7 @@
 
  A macOS menu bar app to automatically change your desktop wallpaper from a curated collection of high-quality images. Customize your experience with global shortcuts, channel selection, and update intervals.
 
-  <a href="https://github.com/itsabhishekolkha/Unscene/releases/download/v1.0.0/Unscene.1.0.0.dmg"><img src="https://github.com/user-attachments/assets/a959a0d3-703f-4740-a6ec-ddbaceb0cf74" width="180" alt="Download for macOS"/></a><br/>
+  <a href="https://github.com/itsabhishekolkha/Unscene/releases/download/v1.0.0/Unscene.dmg"><img src="https://github.com/user-attachments/assets/a959a0d3-703f-4740-a6ec-ddbaceb0cf74" width="180" alt="Download for macOS"/></a><br/>
   <sub><b>The latest app version requires macOS 12.0 (Monterey) or later.</b></sub>
 </div>
 
@@ -30,6 +30,9 @@
 ## Usage
 
 Unscene brings effortless wallpaper management to your macOS desktop. Here’s how to make the most of it. No need to set wallpapers manually just press the shortcut keys anywhere and on any app your wallpaper will change automatically.
+
+## Known Issues:
+Accessibility permissions may need a reset if shortcuts don’t work at first—remove Unscene from System Settings->Privacy & Security-> Accessibility then quit the app and reopen give Accessibility permission when the popup appears. After this quit the app again and reopen, You are good to go!!
 
 ### 🖥️ Menu Bar  
 *Your wallpaper control hub*  
@@ -58,7 +61,7 @@ Unscene brings effortless wallpaper management to your macOS desktop. Here’s h
 - `4.` Pick a **Download Folder** for saved wallpapers.
 - `5.` Share your wallpapers with **Contribute Wallpapers** option and they will be available on *Unscene* ASAP. 
 <div align="center">
-  <a href="#"><img width="500" alt="Settings UI" src="https://github.com/user-attachments/assets/483e8d38-8646-45ec-a7f6-85cc17c13917" /></a>
+  <a href="#"><img width="500" alt="Settings UI" src="https://github.com/user-attachments/assets/4f9e0c22-df1d-4ae5-9380-ccc0920c6723" /></a>
 </div>
 
 ### ⌨️ Global Shortcuts  
