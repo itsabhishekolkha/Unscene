@@ -72,6 +72,9 @@ Unscene brings effortless wallpaper management to your macOS desktop. Here’s h
   - `Option+Command+P`: Previous wallpaper.  
   - `Option+Command+S`: Download current wallpaper.  
 - *Note*: Requires Accessibility permissions—enable in System Settings!  
+<div align="center">
+  <a href="#"><img width="500" alt="Settings UI" src="https://github.com/user-attachments/assets/cd5fca4c-b917-4751-bad7-23818dec8844" /></a>
+</div>
 
 ---
 
