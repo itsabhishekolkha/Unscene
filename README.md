@@ -24,7 +24,7 @@
 - **Custom Channels**: Combine existing channels into your own custom collections.
 - **Global Shortcuts**: Trigger wallpaper changes, revert to previous, or download current wallpaper with key combos.
 - **Multi-Display Support**: Use the same wallpaper across all screens or unique ones per display.
-- **Trial & License**: Free trial with limited features; unlock full functionality with a one-time purchase.
+- **Trial & License**: Free trial with limited features; unlock full functionality with a one-time purchase of 9.99$.
 - **Contribute Wallpapers** A option in Unscene where users can share there wallpapers and they will be available on Unscene server ASAP.
 
 ## Usage
